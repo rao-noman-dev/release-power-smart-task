@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "packageName": "power-smart-task",
+  "channel": "stable",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "downloadUrl": "https://rao-noman-dev.github.io/release-power-smart-task/releases/1.0.0/Power-Smart-Task-1.0.0-windows.zip",
+  "sha256": "515d64f1febce5206154d869d7c1c5938220ce14938db58fe1969302755464ec",
+  "fileSizeBytes": 538645,
+  "publishedAt": "2026-11-08T03:10:33.995Z",
+  "releaseNotes": "First Windows download of the local Power Smart Task app. JazzCash payment collection stays closed. Complimentary Pro remains an administrator grant."
+}
